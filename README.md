@@ -13,7 +13,7 @@ catkin_make
 
 source devel/setup.bash
 
-chmod +x ~/test_ws/src/tutorial_mini/tutorials/src/tutorial.py 
+chmod +x ~/catkin_ws/src/tutorial_mini/tutorials/src/tutorial.py 
 ```
 
 Now run the following in different terminals
